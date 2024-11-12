@@ -42,7 +42,7 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2022 BertFlix Developed by{' '}
+          &copy; 2024 KIBANDA Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
@@ -52,7 +52,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gilbert Hutapea
+            GROUP I
           </a>
         </Typography>
       </Paper>
